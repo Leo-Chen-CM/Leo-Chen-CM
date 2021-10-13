@@ -1,6 +1,6 @@
 Well,
 
-Hello there
+Hello there.
 
 <!---
 Leo-Chen-CM/Leo-Chen-CM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
